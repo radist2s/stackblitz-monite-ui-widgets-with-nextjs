@@ -1,15 +1,26 @@
 {
-  "name": "next-app",
+  "name": "with-nextjs-react-widgets",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "^13.0.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "@team-monite/sdk-api": "^2.3.0-beta.1",
+    "@team-monite/ui-widgets-react": "^2.4.0-beta.5",
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "rebass": "^4.0.7",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
   }
 }
