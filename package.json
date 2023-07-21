@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@team-monite/sdk-api": "^2.3.0-beta.1",
-    "@team-monite/ui-widgets-react": "^2.4.0-beta.5",
+    "@team-monite/sdk-api": "^2.3.0-beta.3",
+    "@team-monite/ui-widgets-react": "^2.4.0-beta.6",
     "@types/node": "20.4.1",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
